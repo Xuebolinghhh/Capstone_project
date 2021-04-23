@@ -21,4 +21,4 @@ In order to answer this question, we have built a model get some recommendations
 
 # Report and Presentation
 *[link Report](Report.pdf) you can link to final report.<br>
-*[here](https://github.com/Xuebolinghhh/Capstone_project/blob/main/Location%20selection.ipynb) is the link to presentation.
+*[here](Capstone project representation.pdf) is the link to presentation.
