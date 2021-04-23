@@ -20,5 +20,5 @@ In order to answer this question, we have built a model get some recommendations
   The second step of analyse you can find [here](https://github.com/Xuebolinghhh/Capstone_project/blob/main/Location%20selection.ipynb)
 
 # Report and Presentation
-*[here](Report.pdf) you can link to final report.<br>
-*[here](Capstone project representation.pdf) is the link to presentation.
+*[link Report](Report.pdf) you can link to final report.<br>
+*[link Presention](Capstone project Presentation.pdf) is the link to presentation.
